@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+canvas {
+  margin-top: 50px;
+  display: block;
+  border: 1px solid;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.about {
+  outline: 1px solid #000;
+  width: 1000px;
+  height: 60px;
+  background-color: #e5e5e5;
+  font-family: arial;
+}
+.about button {
+  width: 100px;
+  height: 40px;
+  float: right;
+  position: relative;
+  bottom: 35px;
+  right: 590px;
+}
